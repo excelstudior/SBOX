@@ -44,14 +44,14 @@ namespace IDDemo.Controllers
         {
             return View();
         }
-
+        
         public IActionResult Role()
         {
             
             var roles = _applicationDbContext.Roles.ToList();
             return View(roles);
         }
-
+        
         public async Task<IActionResult> CreateRole(string roleName)
         {
             if (roleName != null)
