@@ -52,12 +52,12 @@ namespace IDDemo.Controllers
             return View(roles);
         }
 
-        public IActionResult CreateRole(string roleName)
+        public async Task<IActionResult> CreateRole(string roleName)
         {
             if (roleName != null)
             {
                 var newRole = new IdentityRole(roleName);
-                _roleManager.CreateAsync(newRole);
+                await _roleManager.CreateAsync(newRole);
                 return Redirect("Role");
             }
             return View();

@@ -10,3 +10,15 @@ C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.AssemblyInfoInputs.cache
 C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.AssemblyInfo.cs
 C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.dll
 C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.pdb
+D:\ProjectOne\SBOX\IDDemo\IDDemo\bin\Debug\netcoreapp2.0\IDDemo.deps.json
+D:\ProjectOne\SBOX\IDDemo\IDDemo\bin\Debug\netcoreapp2.0\IDDemo.runtimeconfig.json
+D:\ProjectOne\SBOX\IDDemo\IDDemo\bin\Debug\netcoreapp2.0\IDDemo.runtimeconfig.dev.json
+D:\ProjectOne\SBOX\IDDemo\IDDemo\bin\Debug\netcoreapp2.0\IDDemo.dll
+D:\ProjectOne\SBOX\IDDemo\IDDemo\bin\Debug\netcoreapp2.0\IDDemo.pdb
+D:\ProjectOne\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.csprojResolveAssemblyReference.cache
+D:\ProjectOne\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.csproj.CoreCompileInputs.cache
+D:\ProjectOne\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\ProjectOne\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.AssemblyInfoInputs.cache
+D:\ProjectOne\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.AssemblyInfo.cs
+D:\ProjectOne\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.dll
+D:\ProjectOne\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.pdb

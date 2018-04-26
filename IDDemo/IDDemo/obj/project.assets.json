@@ -13116,26 +13116,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\custo\\.nuget\\packages\\": {},
+    "C:\\Users\\ryang\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\SBOX\\IDDemo\\IDDemo\\IDDemo.csproj",
+      "projectUniqueName": "D:\\ProjectOne\\SBOX\\IDDemo\\IDDemo\\IDDemo.csproj",
       "projectName": "IDDemo",
-      "projectPath": "C:\\SBOX\\IDDemo\\IDDemo\\IDDemo.csproj",
-      "packagesPath": "C:\\Users\\custo\\.nuget\\packages\\",
-      "outputPath": "C:\\SBOX\\IDDemo\\IDDemo\\obj\\",
+      "projectPath": "D:\\ProjectOne\\SBOX\\IDDemo\\IDDemo\\IDDemo.csproj",
+      "packagesPath": "C:\\Users\\ryang\\.nuget\\packages\\",
+      "outputPath": "D:\\ProjectOne\\SBOX\\IDDemo\\IDDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\custo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ryang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13159,24 +13156,24 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "2.0.0",
-            "autoReferenced": true
-          },
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
           }
         },
         "imports": [
