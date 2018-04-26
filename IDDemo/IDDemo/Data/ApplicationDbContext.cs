@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using IDDemo.Models;
 using Microsoft.AspNetCore.Identity;
+using IDDemo.Models.SuperUserViewModels;
 
 namespace IDDemo.Data
 {
@@ -31,5 +32,7 @@ namespace IDDemo.Data
             // For example, you can rename the ASP.NET Identity table names and more.
             // Add your customizations after calling base.OnModelCreating(builder);
         }
+
+        public DbSet<IDDemo.Models.SuperUserViewModels.RoleViewModel> RoleViewModel { get; set; }
     }
 }
