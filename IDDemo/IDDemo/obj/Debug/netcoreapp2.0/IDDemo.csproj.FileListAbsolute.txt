@@ -1,0 +1,12 @@
+C:\SBOX\IDDemo\IDDemo\bin\Debug\netcoreapp2.0\IDDemo.deps.json
+C:\SBOX\IDDemo\IDDemo\bin\Debug\netcoreapp2.0\IDDemo.runtimeconfig.json
+C:\SBOX\IDDemo\IDDemo\bin\Debug\netcoreapp2.0\IDDemo.runtimeconfig.dev.json
+C:\SBOX\IDDemo\IDDemo\bin\Debug\netcoreapp2.0\IDDemo.dll
+C:\SBOX\IDDemo\IDDemo\bin\Debug\netcoreapp2.0\IDDemo.pdb
+C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.csprojResolveAssemblyReference.cache
+C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.csproj.CoreCompileInputs.cache
+C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.AssemblyInfoInputs.cache
+C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.AssemblyInfo.cs
+C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.dll
+C:\SBOX\IDDemo\IDDemo\obj\Debug\netcoreapp2.0\IDDemo.pdb

@@ -1,0 +1,11 @@
+C:\SBOX\App2\App2\bin\Debug\netcoreapp2.0\App2.deps.json
+C:\SBOX\App2\App2\bin\Debug\netcoreapp2.0\App2.runtimeconfig.json
+C:\SBOX\App2\App2\bin\Debug\netcoreapp2.0\App2.runtimeconfig.dev.json
+C:\SBOX\App2\App2\bin\Debug\netcoreapp2.0\App2.dll
+C:\SBOX\App2\App2\bin\Debug\netcoreapp2.0\App2.pdb
+C:\SBOX\App2\App2\obj\Debug\netcoreapp2.0\App2.csproj.CoreCompileInputs.cache
+C:\SBOX\App2\App2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\SBOX\App2\App2\obj\Debug\netcoreapp2.0\App2.AssemblyInfoInputs.cache
+C:\SBOX\App2\App2\obj\Debug\netcoreapp2.0\App2.AssemblyInfo.cs
+C:\SBOX\App2\App2\obj\Debug\netcoreapp2.0\App2.dll
+C:\SBOX\App2\App2\obj\Debug\netcoreapp2.0\App2.pdb
